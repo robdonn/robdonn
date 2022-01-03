@@ -1,4 +1,4 @@
-### Senior Software Engineer at [CarTrawler][cartrawler]
+### Senior Software Engineer at [Personio][personio]
 
 :boy: Proud dad
 
@@ -16,7 +16,7 @@
 :camera: [Instagram][instagram] **|** 
 :necktie: [LinkedIn][linkedin]
 
-[cartrawler]: https://cartrawler.com
+[personio]: https://www.personio.com
 [react]: https://reactjs.org
 [express]: https://expressjs.com
 [nodejs]: https://nodejs.org
@@ -26,5 +26,5 @@
 [instagram]: https://instagram.com/robdonncom
 [linkedin]: https://www.linkedin.com/in/robdonn
 
-[coursebanner]: https://img-a.udemycdn.com/course/480x270/3524942_7b53.jpg?O4abSnOzYCBoc9D_8xyjvQI1IX_1MysRxqV2CBuZ_eCy-JuLAWHKONwdp7_vn2Ivjaf-KmOHm0PWPVVNLI0VSQz8Lvd_TlHUKpmuA9hErhflLoUbXG1itCZkV5c
+[coursebanner]: https://img-b.udemycdn.com/course/750x422/3524942_7b53.jpg
 [courselink]: https://www.udemy.com/course/monorepos-a-beginners-guide/?referralCode=E533ACEE2A8D5CC736B7
