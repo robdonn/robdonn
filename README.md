@@ -1,4 +1,4 @@
-### Senior Software Engineer at [Personio][personio]
+### Lead Software Engineer at [Personio][personio]
 
 :boy: Proud dad
 
